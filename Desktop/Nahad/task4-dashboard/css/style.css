@@ -1,0 +1,10 @@
+*{
+   padding: 0px; 
+   margin: 0px;
+}
+ .saved{
+   font-size: 0.8rem;
+ }
+ .item{
+   background: rgba(128, 128, 128, 0.315);
+ }
